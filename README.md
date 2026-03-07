@@ -1,5 +1,9 @@
 <div align="center">
-  <br>
+  <h1>🚗 AutoDiag AI - Mechanic</h1>
+
+  <img src="https://github.com/user-attachments/assets/d1d5382c-e6c5-43a5-b2a4-1b8f8dd19611" width="450" />
+
+  <br><br>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -31,4 +35,4 @@ Want to see it in action? Download the latest fully-compiled APK and test it on 
 * **Google AI SDK:** Generative multimodal analysis via API.
 
 ---
-*Developed by **El Mehdi Saidi** - Mechatronics & Automotive Technology Engineering.*
+*Developed by **El Mehdi SAIDI** - Mechatronics & Automotive Technology Engineering.*
